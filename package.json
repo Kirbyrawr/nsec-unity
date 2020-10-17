@@ -1,0 +1,24 @@
+{
+  "name": "com.kirbyrawr.nsec",
+  "version": "19.5.0",
+  "displayName": "NSec Libraries",
+  "description": "This is a package that contains the 'NSec' libraries compiled to use in Unity.\nThe code credits go to the original authors of 'NSec'.",
+  "unity": "2019.1",
+  "unityRelease": "1f1",
+  "dependencies": {
+      "com.kirbyrawr.libsodium": "1.0.17",
+      "com.kirbyrawr.system.memory": "4.0.1",
+      "com.kirbyrawr.system.numerics.vectors": "4.1.3",
+      "com.kirbyrawr.common.logging": "4.0.2"
+    },
+  "keywords": [
+    "nsec",
+    "dlls",
+    "compiled"
+  ],
+  "author": {
+    "name": "Kirbyrawr",
+    "email": "devkirbyrawr@gmail.com"
+  },
+  "type": "library"
+}
