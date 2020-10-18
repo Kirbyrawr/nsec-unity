@@ -16,6 +16,11 @@
     "dlls",
     "compiled"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Kirbyrawr/unity-nsec.git"
+  },
+  "license": "MIT",
   "author": {
     "name": "Kirbyrawr",
     "email": "devkirbyrawr@gmail.com"
