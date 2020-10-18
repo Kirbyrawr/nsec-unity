@@ -1,6 +1,7 @@
 MIT License
 
 Copyright (c) 2019 Klaus Hartke
+
 Unity modifications and package -> Kirbyrawr
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
